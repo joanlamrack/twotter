@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/joanlamrack/twotter#readme",
   "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.0.0",
     "express": "^4.16.3",
     "oauth": "^0.9.15",
     "request": "^2.87.0",
